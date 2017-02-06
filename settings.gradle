@@ -1,1 +1,1 @@
-include ':prontoshopapp'
+include ':prontoshopapp', ':mycustomeview'
